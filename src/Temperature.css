@@ -1,0 +1,9 @@
+.Temperature {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 10rem;
+    background: #5DB7F2;
+    color: white;
+    height: 50vh;
+}
